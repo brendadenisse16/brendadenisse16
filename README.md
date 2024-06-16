@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @brendadenisse16
 - 👀 I’m interest mostly in the application of operation research and machine learning to transportation and logistic planning problems as well as finance problems.
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning and Reinforcement Learning
 - 📫 How to reach me brendenisse2004@gmail.com
 
 <!---
