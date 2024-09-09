@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brendadenisse16
-- 👀 I’m interest mostly in the application of operation research and machine learning to transportation and logistic planning problems as well as finance problems.
+- 👀 Passionate about solving real-world problems using data-driven approaches. Experienced in machine learning, optimization, and data analysis with a strong background in financial, logistics, and transportation applications. Always open to learning new techniques and collaborating on innovative projects.
 - 📫 How to reach me brendenisse2004@gmail.com
 
 <!---
